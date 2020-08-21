@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="help">HELP</string>
+    <string name="bmi_info">Body mass index (BMI) is a value derived from the mass (weight) and height of a person.</string>
+    <string name="ok">OK</string>
+    <string name="calculte_bmi">Calculte BMI</string>
+    <string name="problem">problem</string>
+    <string name="pleasr_inter_weight_height">please enter weight and height amount</string>
+    <string name="please_enter_weight">please enter weight amount</string>
+    <string name="please_enter_height">please enter height amount</string>
+    <string name="weight_kg">Weight (kg)</string>
+    <string name="height_cm">height (cm)</string>
+    <string name="your_bmi_is">"your BMI is "</string>
+</resources>
